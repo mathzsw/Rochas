@@ -1,18 +1,18 @@
 body {
     font-family: "Times New Roman", Times, serif;
-    color: white;
+    color:#808000;
 }
 
 h1 {
     text-align: left;
-    color: white;
+    color: #808000;
     padding: 30px;
     font-weight: bold;
 }
 
 h2 {
     text-align: left;
-    color: white;
+    color: #808000;
     padding: 24px;
     font-weight: bold;
     font-weight: italic;
@@ -20,13 +20,13 @@ h2 {
 
 h3 {
     text-align: left;
-    color: white; 
+    color: #808000; 
     padding: 20px;
     font-weight: bold;
 }
 
 p {
     text-align: left;
-    color: white; 
+    color: #808000; 
     padding: 16px;
 }
