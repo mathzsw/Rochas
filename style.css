@@ -1,0 +1,34 @@
+body {
+    font-family: Times New Roman;
+    color: write;
+    background-color: black; 
+}
+
+h1 {
+    text-align: left;
+    color: write;
+    padding: 30px;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: left;
+    color: write;
+    padding: 24px;
+    font-weight: bold;
+    font-weight: italic;
+}
+
+h3 {
+    text-align: left;
+    color: write; 
+    padding: 20px;
+    font-weight: bold;
+}
+
+p {
+    text-align: left;
+    color: write; 
+    padding: 16px;
+}
+
