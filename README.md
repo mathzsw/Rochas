@@ -1,4 +1,4 @@
-# Rochas
+# Rochas - Matheus e Allycia
 O que são rochas
 
 Rochas são associações naturais de minerais, geralmente compostas por dois ou mais tipos, que ocorrem em grandes extensões na crosta terrestre. Algumas rochas, chamadas de monominerálicas, são formadas por um único mineral, como o calcário (formado por calcita) e o quartzito (formado por quartzo). Elas desempenham papel fundamental na estrutura geológica do planeta e são estudadas pela petrologia, ramo da geologia que investiga sua origem, composição e transformação.
